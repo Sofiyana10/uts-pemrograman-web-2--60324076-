@@ -42,7 +42,7 @@ Digunakan untuk mengelola data kategori buku.
 4. Jalankan di browser:
 
    ```
-   http://localhost/uts-pemrograman-web-2-60324076
+   (http://localhost/uts_[60324076])
    ```
 
 ## 📁 Struktur Folder
