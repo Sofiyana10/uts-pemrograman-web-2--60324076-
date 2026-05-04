@@ -2,7 +2,7 @@
 
 ## 👤 Identitas
 
-* Nama: [Riskha Syofiyana]
+* Nama: Riskha Syofiyana
 * NIM: 60324076
 
 ## 📌 Deskripsi Aplikasi
