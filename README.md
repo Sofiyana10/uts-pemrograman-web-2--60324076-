@@ -58,4 +58,4 @@ database/      → file SQL
 
 ## 🔗 Link Repository
 
-https://github.com/USERNAME/uts-pemrograman-web-2-60324076
+[https://github.com/USERNAME/uts-pemrograman-web-2-60324076](https://github.com/Sofiyana10/uts-pemrograman-web-2--60324076-.git)
